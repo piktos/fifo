@@ -51,7 +51,7 @@ http://212.0.215.106/JurnalTVHD/playlist.m3u8
 http://212.0.215.115:80/Prime/playlist.m3u8
 #EXTINF:-1 ,NTV Moldova
 #EXTGRP:FREE
-http://212.0.215.115/NTV-Moldova/playlist.m3u8
+http://212.0.215.106/NTV-Moldova/playlist.m3u8
 #EXTINF:-1 ,Accent TV
 #EXTGRP:FREE
 https://video.a-tv.md/hls/accent.m3u8
