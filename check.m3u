@@ -309,7 +309,7 @@ http://212.0.215.106/Gurinel/mpegts
 http://212.0.215.106/Mult/playlist.m3u8
 #EXTINF:-1 ,Мульт HD
 #EXTGRP:FREE
-http://live03-cdn.tv.ti.ru/dtv/id1301_NBN_SG--TlumHD_wflite/04/plst.m3u8
+http://vs-msk-02.tv.ti.ru/dtv/id1301_NBN_SG--TlumHD_wflite/04/plst.m3u8
 #EXTINF:-1 ,Мультиландия
 #EXTGRP:FREE
 http://live02-cdn.tv.ti.ru:80/dtv/id350_NBN_SG--multimania/03/plst.m3u8
@@ -559,7 +559,6 @@ http://212.0.215.115/TarafTV/playlist.m3u8
 #EXTINF:-1 ,Tezaur Folc
 #EXTGRP:FREE
 http://212.0.215.115/TezaurFolcTVHD/playlist.m3u8
-https://str.pcradio.ru/electrozombies_com-med
 #EXTINF:-1 ,ELITA TV
 #EXTGRP:FREE
 http://live.trm.md:1935/live/M1Mlive/playlist.m3u8?checkedby:iptvcat.com
