@@ -33,7 +33,7 @@ http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 http://212.0.215.115/JurnalTVHD/playlist.m3u8
 #EXTINF:-1 ,Prime
 #EXTGRP:FREE
-http://212.0.215.115:80/Prime/playlist.m3u8
+http://212.0.215.106/Prime/playlist.m3u8
 #EXTINF:-1 ,NTV Moldova
 #EXTGRP:FREE
 http://212.0.215.106/NTV-Moldova/playlist.m3u8
@@ -126,7 +126,7 @@ http://212.0.215.115/PRO2/playlist.m3u8
 http://212.0.215.115/PRO2/playlist.m3u8
 #EXTINF:-1 ,Кинокомедия
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id135_NBN_SG--komediya_tv/03/plst.m3u8
+http://83.172.32.25:8012/tv/komediatv
 #EXTINF:-1 ,Кинокомедия HD
 #EXTGRP:FREE
 http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
@@ -147,10 +147,10 @@ http://212.0.215.106/SonyTurbo/playlist.m3u8
 http://songtvru.ru:8060/hd/playlist.m3u8
 #EXTINF:-1 ,Sony Sci-Fi
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id158_NBN_SG--SonySciFi/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id158_NBN_SG--SonySciFi/03/plst.m3u8
 #EXTINF:-1 ,Spike
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id505_NBN_SG--Spike/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id505_NBN_SG--Spike/03/plst.m3u8
 #EXTINF:-1 ,Star Cinema
 #EXTGRP:FREE
 http://212.0.215.115/StarCinema/playlist.m3u8
@@ -177,7 +177,7 @@ http://178.217.72.66:80/225.201.2.45/playlist.m3u8
 http://hlstv.kem.211.ru/239.211.211.143/stream.m3u8
 #EXTINF:-1 ,Иллюзион+
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id206_NBN_SG--IllusionPlus/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id206_NBN_SG--IllusionPlus/03/plst.m3u8
 #EXTINF:-1 ,Дом кино
 #EXTGRP:FREE
 http://77.89.204.107:8000/play/a0bl/index.m3u8
@@ -204,7 +204,7 @@ http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8
 http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Победа
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id1336_NBN_SG--Pobeda/03/plst.m3u8
+http://79.133.108.165:999/udp/239.191.254.124:13343
 #EXTINF:-1 ,Minimax
 #EXTGRP:FREE
 http://212.0.215.115/Minimax/playlist.m3u8
@@ -219,7 +219,7 @@ http://212.0.215.106/Mult/playlist.m3u8
 http://vs-msk-02.tv.ti.ru/dtv/id1301_NBN_SG--TlumHD_wflite/04/plst.m3u8
 #EXTINF:-1 ,Мультиландия
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id350_NBN_SG--multimania/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id350_NBN_SG--multimania/03/plst.m3u8
 #EXTINF:-1 ,Nick Jr
 #EXTGRP:FREE
 http://83.172.32.25:8012/tv/nickjr
@@ -234,10 +234,10 @@ http://212.0.215.115/NickelodeonHD/playlist.m3u8
 http://212.0.215.115/DisneyChannel/playlist.m3u8
 #EXTINF:-1 ,Boomerang
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id142_NBN_SG--boomerang/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id142_NBN_SG--boomerang/03/plst.m3u8
 #EXTINF:-1 ,Cartoon Network
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id141_NBN_SG--cartoon/03/plst.m3u8
+http://178.217.72.66:80/225.201.2.73/playlist.m3u8
 #EXTINF:-1 ,Cartoon Network HD
 #EXTGRP:FREE
 http://live-ng-01.more.tv/hls/Cartoon_Network_HD/index_1.m3u8
@@ -306,16 +306,16 @@ http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,Живая Планета
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id1071_NBN_SG--ZhivayaPlaneta/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id1071_NBN_SG--ZhivayaPlaneta/03/plst.m3u8
 #EXTINF:-1 ,Наука 2.0
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id240_NBN_SG--Nauka/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id240_NBN_SG--Nauka/03/plst.m3u8
 #EXTINF:-1 ,Viasat History
 #EXTGRP:FREE
 http://live-ng-01.more.tv/hls/Viasat_History_HD/master.m3u8
 #EXTINF:-1 ,English Club
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id530_NBN_SG--EnglishClub/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id530_NBN_SG--EnglishClub/03/plst.m3u8
 #EXTINF:-1 ,Travel Channel
 #EXTGRP:FREE
 http://178.217.72.66:80/225.201.2.3/playlist.m3u8
@@ -327,13 +327,13 @@ http://212.0.215.106/TLC/playlist.m3u8
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 ,Кухня ТВ
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id1345_NBN_SG--kuhnya_tv_wflite/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id1345_NBN_SG--kuhnya_tv_wflite/03/plst.m3u8
 #EXTINF:-1 ,Бобер
 #EXTGRP:FREE
 http://89.106.234.3:80/bober_38_39.m3u8
 #EXTINF:-1 ,Охота и Рыбалка
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id1281_NBN_SG--Ohota_Rybalka/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id1281_NBN_SG--Ohota_Rybalka/03/plst.m3u8
 #EXTINF:-1 ,Авто плюс
 #EXTGRP:FREE
 http://178.217.72.66:80/225.201.2.185/playlist.m3u8
@@ -345,13 +345,13 @@ http://vs-msk-02.tv.ti.ru:80/dtv/id1256_NBN_SG--AutoPlusHD_wflite/04/plst.m3u8
 http://212.0.215.115/KvartalTV/playlist.m3u8
 #EXTINF:-1 ,Fashion TV
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id713_NBN_SG--fashiontv/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id713_NBN_SG--fashiontv/03/plst.m3u8
 #EXTINF:-1 ,Ностальгия
 #EXTGRP:FREE
 http://178.217.72.66:80/225.201.2.17/playlist.m3u8
 #EXTINF:-1 ,Время
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id1341_NBN_SG--Vremya/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id1341_NBN_SG--Vremya/03/plst.m3u8
 #EXTINF:-1 ,Euronews
 #EXTGRP:FREE
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
@@ -360,7 +360,7 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 http://188.35.9.10:2001
 #EXTINF:-1 ,CNN International
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id388_NBN_SG--CNN/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id388_NBN_SG--CNN/03/plst.m3u8
 #EXTINF:-1 ,Current Time
 #EXTGRP:FREE
 http://212.0.215.106/CurrentTime/playlist.m3u8
@@ -384,31 +384,28 @@ http://212.0.215.115/RuTV/playlist.m3u8
 http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
 #EXTINF:-1 ,MTV Dance
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id211_NBN_SG--MTVDance/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id211_NBN_SG--MTVDance/03/plst.m3u8
 #EXTINF:-1 ,MTV Live HD
 #EXTGRP:FREE
 http://hlstv.kem.211.ru/239.211.200.9/stream.m3u8
 #EXTINF:-1 ,MTV Hits
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id210_NBN_SG--MTVHits/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id210_NBN_SG--MTVHits/03/plst.m3u8
 #EXTINF:-1 ,MTV Rocks
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id212_NBN_SG--MTVRocks/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id212_NBN_SG--MTVRocks/03/plst.m3u8
 #EXTINF:-1 ,Music HD
 #EXTGRP:FREE
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
-#EXTINF:-1 ,Musicbox Gold
-#EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id220_NBN_SG--musicbox/03/plst.m3u8
 #EXTINF:-1 ,Music Box RU
 #EXTGRP:FREE
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1 ,VH1 Classic
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id146_NBN_SG--VH1Class/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id146_NBN_SG--VH1Class/03/plst.m3u8
 #EXTINF:-1 ,Музыка Первого
 #EXTGRP:FREE
-http://live02-cdn.tv.ti.ru:80/dtv/id1340_NBN_SG--MuzikaPervogo/03/plst.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id1340_NBN_SG--MuzikaPervogo/03/plst.m3u8
 #EXTINF:-1 ,THT Music
 #EXTGRP:FREE
 http://212.0.215.115/THTMusic/playlist.m3u8
@@ -495,9 +492,6 @@ http://live02-cdn.tv.ti.ru:80/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8
 http://212.0.215.115/KinoSemya/playlist.m3u8
 #EXTINF:-1 ,Киносемья HD
 #EXTGRP:FREE 2
-http://live02-cdn.tv.ti.ru:80/dtv/id1261_NBN_SG--KinosemHD_wflite/04/plst.m3u8
-#EXTINF:-1 ,Киносемья HD
-#EXTGRP:FREE 2
 http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1 ,TV 1000
 #EXTGRP:FREE 2
@@ -528,7 +522,7 @@ http://212.0.215.106/StarCinema/mpegts
 http://77.89.204.107:8000/play/a06p/index.m3u8
 #EXTINF:-1 ,Иллюзион+
 #EXTGRP:FREE 2
-http://178.217.72.66:80/225.201.2.138/playlist.m3u8
+http://vs-msk-02.tv.ti.ru:80/dtv/id206_NBN_SG--IllusionPlus/03/plst.m3u8
 #EXTINF:-1 ,FilmUaDrama
 #EXTGRP:FREE 2
 http://212.0.215.106/FilmUaDrama/mpegts
@@ -543,7 +537,7 @@ http://178.217.72.66:80/225.201.2.171/playlist.m3u8
 http://212.0.215.106/Gurinel/mpegts
 #EXTINF:-1 ,Nickelodeon HD
 #EXTGRP:FREE 2
-http://live02-cdn.tv.ti.ru:80/dtv/id385_NBN_SG--Nickelodeon_HD/04/plst.m3u8
+http://hlstv.kem.211.ru/239.211.200.8/stream.m3u8
 #EXTINF:-1 ,Disnay Channel
 #EXTGRP:FREE 2
 http://89.37.104.9/DisneyChannel/mpegts
