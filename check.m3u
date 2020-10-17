@@ -158,9 +158,6 @@ http://zigfreed.ru/KLL/116.m3u8
 #EXTINF:-1,Кинохит HD
 #EXTGRP:FREE
 http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-#EXTINF:-1,Кинопоказ
-#EXTGRP:FREE
-http://zigfreed.ru/KLL/107.m3u8
 #EXTINF:-1,Кинокомедия
 #EXTGRP:FREE
 http://zigfreed.ru/KLL/104.m3u8
@@ -172,7 +169,7 @@ http://zigfreed.ru/KLL/105.m3u8
 http://zigfreed.ru/KLL/106.m3u8
 #EXTINF:-1,Кинопоказ
 #EXTGRP:FREE
-http://zigfreed.ru/KLL/107.m3u8
+http://
 #EXTINF:-1,Кинопремиум HD
 #EXTGRP:FREE
 http://zigfreed.ru/KLL/108.m3u8
@@ -205,7 +202,7 @@ http://zigfreed.ru/KLL/116.m3u8
 http://zigfreed.ru/KLL/117.m3u8
 #EXTINF:-1,Комедия ТВ
 #EXTGRP:FREE
-http://zigfreed.ru/KLL/118.m3u8
+http://
 #EXTINF:-1,Amedia 1
 #EXTGRP:FREE
 http://zigfreed.ru/KLL/2.m3u8
@@ -233,9 +230,6 @@ http://195.191.208.78:8080/tv1000hd/index.m3u8
 #EXTINF:-1,TV 1000 Action
 #EXTGRP:FREE
 http://212.0.215.106/TV1000Act/playlist.m3u8
-#EXTINF:-1,TV 1000 World Kino
-#EXTGRP:FREE
-http://185.109.55.59:9000/play/3684_TV1000WorldKino_LAN_mpeg2
 #EXTINF:-1,National TV
 #EXTGRP:FREE
 http://212.0.215.115/National/playlist.m3u8
@@ -271,13 +265,13 @@ http://212.0.215.106/SonyTurbo/playlist.m3u8
 http://songtvru.ru:8060/hd/playlist.m3u8
 #EXTINF:-1,Sony TV
 #EXTGRP:FREE
-http://zigfreed.ru/KLL/42.m3u8
+http://
 #EXTINF:-1,Sony Sci-Fi
 #EXTGRP:FREE
 http://zigfreed.ru/KLL/43.m3u8
 #EXTINF:-1,Sony Turbo
 #EXTGRP:FREE
-http://zigfreed.ru/KLL/44.m3u8
+http://
 #EXTINF:-1,Spike
 #EXTGRP:FREE
 http://zigfreed.ru/KLL/45.m3u8
@@ -308,9 +302,6 @@ http://212.0.215.115/FilmUaDrama/playlist.m3u8
 #EXTINF:-1,ViP Premiere
 #EXTGRP:FREE
 http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8
-#EXTINF:-1,ViP Premiere HD
-#EXTGRP:FREE
-http://178.217.72.66:80/225.201.2.172/playlist.m3u8
 #EXTINF:-1,ViP Megahit HD
 #EXTGRP:FREE
 http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_1.m3u8
@@ -319,7 +310,7 @@ http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_1.m3u8
 http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8
 #EXTINF:-1,Film Box
 #EXTGRP:FREE
-http://185.109.55.59:9000/play/400_FilmBox_LAN_mpeg4
+http://zigfreed.ru/KLL/21.m3u8
 #EXTINF:-1,Film TV
 #EXTGRP:FREE
 http://autopilot.catcast.tv/content/38144/index.m3u8
@@ -349,13 +340,7 @@ http://212.0.215.115/Gurinel/playlist.m3u8
 http://212.0.215.106/Mult/playlist.m3u8
 #EXTINF:-1,Cartoon Network
 #EXTGRP:FREE
-http://178.217.72.66:80/225.201.2.73/playlist.m3u8
-#EXTINF:-1,Cartoon Network HD
-#EXTGRP:FREE
-http://persik.by/stream/6606/411484/54.m3u8
-#EXTINF:-1,Мульт HD
-#EXTGRP:FREE
-http://zigfreed.ru/KLL/809.m3u8
+http://zigfreed.ru/KLL/780.m3u8
 #EXTINF:-1,Ani
 #EXTGRP:FREE
 http://zigfreed.ru/KLL/775.m3u8
@@ -415,19 +400,16 @@ http://live-ng-01.more.tv/hls/CTC_Kids/index_1.m3u8
 http://212.0.215.106/Eurosport1HD/playlist.m3u8
 #EXTINF:-1,Eurosport 1 HD
 #EXTGRP:FREE
-http://188.35.9.26:16051/udp/238.0.16.3:69000
+http://zigfreed.ru/KLL/269.m3u8
 #EXTINF:-1,Eurosport 2
 #EXTGRP:FREE
 http://zigfreed.ru/KLL/1727.m3u8
 #EXTINF:-1,Eurosport 2 HD
 #EXTGRP:FREE
-http://178.217.72.66:80/225.201.2.150/tracks-v1a1/mono.m3u8
+http://zigfreed.ru/KLL/271.m3u8
 #EXTINF:-1,Setanta
 #EXTGRP:FREE
 http://212.0.215.106/Setanta/mpegts
-#EXTINF:-1,Setanta HD
-#EXTGRP:FREE
-http://212.0.215.106/SetantaHD/playlist.m3u8
 #EXTINF:-1,Setanta 1 HD
 #EXTGRP:FREE
 http://212.0.215.115/Setanta1HD/playlist.m3u8
@@ -571,7 +553,7 @@ http://188.35.9.11:2030
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
 #EXTINF:-1,CNN International
 #EXTGRP:FREE
-http://vs-msk-02.tv.ti.ru:80/dtv/id388_NBN_SG--CNN/03/plst.m3u8
+http://zigfreed.ru/KLL/1613.m3u8
 #EXTINF:-1,Current Time
 #EXTGRP:FREE
 http://212.0.215.106/CurrentTime/playlist.m3u8
@@ -608,21 +590,24 @@ http://46.20.136.59/live3/_definst_/kiss/playlist.m3u8
 #EXTINF:-1,Song TV RU
 #EXTGRP:FREE
 http://songtvru.ru:8060/hd/playlist.m3u8
+#EXTINF:-1,MTV
+#EXTGRP:FREE
+http://zigfreed.ru/KLL/450.m3u8
+#EXTINF:-1,MTV HD
+#EXTGRP:Музыкальные
+http://zigfreed.ru/KLL/451.m3u8
 #EXTINF:-1,MTV Dance
-#EXTGRP:FREE
-http://vs-msk-02.tv.ti.ru:80/dtv/id211_NBN_SG--MTVDance/03/plst.m3u8
-#EXTINF:-1,MTV Live
-#EXTGRP:FREE
-http://hlstv.kem.211.ru/239.211.200.9/stream.m3u8
-#EXTINF:-1,MTV Live HD
-#EXTGRP:FREE
-http://178.69.23.26:8000/play/36-ntv-mtv-live-hd-f93f2fc
+#EXTGRP:Музыкальные
+http://zigfreed.ru/KLL/457.m3u8
+#EXTINF:-1,MTV European
+#EXTGRP:Музыкальные
+http://zigfreed.ru/KLL/458.m3u8
 #EXTINF:-1,MTV Hits
-#EXTGRP:FREE
-http://vs-msk-02.tv.ti.ru:80/dtv/id210_NBN_SG--MTVHits/03/plst.m3u8
-#EXTINF:-1,MTV Rocks
-#EXTGRP:FREE
-http://vs-msk-02.tv.ti.ru:80/dtv/id212_NBN_SG--MTVRocks/03/plst.m3u8
+#EXTGRP:Музыкальные
+http://zigfreed.ru/KLL/459.m3u8
+#EXTINF:-1,MTV Live HD
+#EXTGRP:Музыкальные
+http://zigfreed.ru/KLL/460.m3u8
 #EXTINF:-1,Music HD
 #EXTGRP:FREE
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
@@ -631,16 +616,16 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w10384273
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1,Муз ТВ
 #EXTGRP:FREE
-http://vs-msk-02.tv.ti.ru:80/dtv/id132_NBN_SG--muz-tv/03/plst.m3u8
+http://zigfreed.ru/KLL/677.m3u8
 #EXTINF:-1,VH1 Classic
 #EXTGRP:FREE
-http://vs-msk-02.tv.ti.ru:80/dtv/id146_NBN_SG--VH1Class/03/plst.m3u8
+http://zigfreed.ru/KLL/651.m3u8
 #EXTINF:-1,1HD Music TV
 #EXTGRP:FREE
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,Музыка Первого
 #EXTGRP:FREE
-http://vs-msk-02.tv.ti.ru:80/dtv/id1340_NBN_SG--MuzikaPervogo/03/plst.m3u8
+http://zigfreed.ru/KLL/684.m3u8
 #EXTINF:-1,THT Music
 #EXTGRP:FREE
 http://212.0.215.115/THTMusic/playlist.m3u8
@@ -731,9 +716,12 @@ http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:-1,Profit.ro
 #EXTGRP:FREE
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:-1,ННТВ HD
+#EXTINF:-1,НТВ
 #EXTGRP:FREE
-http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/playlist.m3u8
+http://zigfreed.ru/KLL/140.m3u8
+#EXTINF:-1,НТВ HD
+#EXTGRP:FREE
+http://zigfreed.ru/KLL/141.m3u8
 #EXTINF:-1,Новороссия ТВ
 #EXTGRP:FREE
 http://dprtv.phoenix-dnr.ru/novorossia-tv
@@ -742,7 +730,7 @@ http://dprtv.phoenix-dnr.ru/novorossia-tv
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 #EXTINF:-1,Россия 1
 #EXTGRP:FREE
-http://31.40.128.20/hls/002_rossiya_1.m3u8
+http://zigfreed.ru/KLL/237.m3u8
 #EXTINF:-1,Россия 1 (+6)
 #EXTGRP:FREE
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
@@ -787,7 +775,7 @@ http://live.m2.tv/hls3/stream.m3u8
 http://sc.id-tv.kz/31Kanal_38_39.m3u8
 #EXTINF:-1,TV XXI
 #EXTGRP:FREE
-http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
+http://zigfreed.ru/KLL/49.m3u8
 #EXTINF:-1,Dorama
 #EXTGRP:FREE
 http://sc.id-tv.kz/dorama_hd_38_39.m3u8
@@ -797,33 +785,36 @@ http://sc.id-tv.kz/dorama_hd_34_35.m3u8
 #EXTINF:-1,Родное кино
 #EXTGRP:FREE
 http://89.106.234.3:80/Rodnoe_kino_38_39.m3u8
-#EXTINF:-1,Родное кино HD
-#EXTGRP:FREE
-http://178.217.72.66:80/225.201.2.56/playlist.m3u8
 #EXTINF:-1,Paramount Channel
 #EXTGRP:FREE
-http://vs-msk-02.tv.ti.ru:80/dtv/id986_NBN_SG--Paramount/03/plst.m3u8
+http://zigfreed.ru/KLL/37.m3u8
 #EXTINF:-1,Paramount Comedy
 #EXTGRP:FREE
-http://77.89.204.107:8000/play/a04f/index.m3u8
+http://zigfreed.ru/KLL/38.m3u8
+#EXTINF:-1,Paramount Comedy HD
+#EXTGRP:FREE
+http://zigfreed.ru/KLL/39.m3u8
 #EXTINF:-1,Hollywood
 #EXTGRP:FREE
-http://178.217.72.66:80/225.201.2.76/playlist.m3u8
+http://zigfreed.ru/KLL/31.m3u8
 #EXTINF:-1,НТВ
 #EXTGRP:FREE
-https://cdn.mytouchtv.tv/hlsl/10/NTV/NTV_3/index.m3u8
+http://zigfreed.ru/KLL/141.m3u8
+#EXTINF:-1,НТВ Мир
+#EXTGRP:FREE
+http://zigfreed.ru/KLL/143.m3u8
 #EXTINF:-1,НТВ Право
 #EXTGRP:FREE
-http://vs-msk-02.tv.ti.ru:80/dtv/id1224_NBN_SG--NTVPravo/03/plst.m3u8
+http://zigfreed.ru/KLL/144.m3u8
 #EXTINF:-1,НТВ Сериал
 #EXTGRP:FREE
-http://vs-msk-02.tv.ti.ru:80/dtv/id1222_NBN_SG--NTVSerial/03/plst.m3u8
+http://zigfreed.ru/KLL/145.m3u8
 #EXTINF:-1,НТВ Стиль
 #EXTGRP:FREE
-http://vs-msk-02.tv.ti.ru:80/dtv/id1223_NBN_SG--NTVStyle/03/plst.m3u8
+http://zigfreed.ru/KLL/146.m3u8
 #EXTINF:-1,НТВ Хит
 #EXTGRP:FREE
-http://vs-msk-02.tv.ti.ru:80/dtv/id702_NBN_SG--NTV_HIT/03/plst.m3u8
+http://zigfreed.ru/KLL/147.m3u8
 #EXTINF:-1,ОТР
 #EXTGRP:FREE
 https://cdn.mytouchtv.tv/hlsl/10/OTR/OTR_3/index.m3u8
@@ -874,22 +865,16 @@ http://sc.id-tv.kz/RenTV_38_39.m3u8
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 #EXTINF:-1,Eurosport 1
 #EXTGRP:FREE 2
-http://79.142.197.7:8888/Eurosport/mono.m3u8
+http://zigfreed.ru/KLL/268.m3u8
 #EXTINF:-1,Кино ТВ
 #EXTGRP:FREE 2
-http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
+http://zigfreed.ru/KLL/82.m3u8
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP:FREE 2
 http://astra.realcrimea.net:8000/play/a01e
 #EXTINF:-1,Кинохит
 #EXTGRP:FREE 2
 https://sc.id-tv.kz/Kinohit_hd_38_39.m3u8
-#EXTINF:-1,Кинохит
-#EXTGRP:FREE 2
-http://178.217.72.66:80/225.201.2.44/playlist.m3u8
-#EXTINF:-1,Кинохит HD
-#EXTGRP:FREE 2
-http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:-1,Кинопоказ
 #EXTGRP:FREE 2
 http://83.172.32.25:8012/tv/kinopokaz
@@ -920,18 +905,12 @@ https://sc.id-tv.kz/Kinokomediya_hd_38_39.m3u8
 #EXTINF:-1,Индийское кино
 #EXTGRP:FREE 2
 http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
-#EXTINF:-1,Индийское кино
-#EXTGRP:FREE 2
-http://83.172.32.25:8012/tv/indiatv
 #EXTINF:-1,Sony Turbo
 #EXTGRP:FREE 2
-http://83.172.32.25:8012/tv/sonyturbo
+http://zigfreed.ru/KLL/44.m3u8
 #EXTINF:-1,Star Cinema
 #EXTGRP:FREE 2
 http://212.0.215.106/StarCinema/mpegts
-#EXTINF:-1,Star Family
-#EXTGRP:FREE 2
-http://77.89.204.107:8000/play/a06p/index.m3u8
 #EXTINF:-1,Киносвидание HD
 #EXTGRP:FREE 2
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
