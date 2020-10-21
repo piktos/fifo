@@ -594,19 +594,19 @@ http://songtvru.ru:8060/hd/playlist.m3u8
 #EXTGRP:FREE
 http://zigfreed.ru/KLL/450.m3u8
 #EXTINF:-1,MTV HD
-#EXTGRP:Музыкальные
+#EXTGRP:FREE
 http://zigfreed.ru/KLL/451.m3u8
 #EXTINF:-1,MTV Dance
-#EXTGRP:Музыкальные
+#EXTGRP:FREE
 http://zigfreed.ru/KLL/457.m3u8
 #EXTINF:-1,MTV European
-#EXTGRP:Музыкальные
+#EXTGRP:FREE
 http://zigfreed.ru/KLL/458.m3u8
 #EXTINF:-1,MTV Hits
-#EXTGRP:Музыкальные
+#EXTGRP:FREE
 http://zigfreed.ru/KLL/459.m3u8
 #EXTINF:-1,MTV Live HD
-#EXTGRP:Музыкальные
+#EXTGRP:FREE
 http://zigfreed.ru/KLL/460.m3u8
 #EXTINF:-1,Music HD
 #EXTGRP:FREE
